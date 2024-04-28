@@ -39,3 +39,7 @@ Ensure you have the following software installed on your system:
    git clone https://github.com/deepshikha987/BookStore_SpringBoot_Java/bookstore.git
 
 ### Screenshots
+![book2](https://github.com/deepshikha9876/BookStore_SpringBoot_Java/assets/139794978/8653905d-afa2-4195-a54c-3d9084b21a0e)
+
+![Book0](https://github.com/deepshikha9876/BookStore_SpringBoot_Java/assets/139794978/d556d606-7f44-4c38-ac87-e2a98bef95f0)
+
